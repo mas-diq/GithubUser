@@ -5,7 +5,7 @@
   <img  width="480px" src="https://github.com/mas-diq/GithubUser/blob/master/GithubLogo.png" />
   <h3 align="center">Github User Apps</h3>
   <p align="center">
-   Github User Apps is an application that will display github user data information using the Github API. Also using provider to display that data in different apps.
+   Github User Apps is an application that will display github user information using the Github API. Also using provider to display that data in different apps and alarm manager to remind the alarm.
     <br />
     <a href="https://github.com/mas-diq/GithubUser"><strong>Explore the docs »</strong></a>
   </p>
