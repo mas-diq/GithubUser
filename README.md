@@ -22,16 +22,14 @@
 
 ## How to use ?
 <p align="left">
-  You can directly download file 
-<a href="https://github.com/mas-diq/CameraStoreApps/blob/master/CameraStoreApps.apk"><strong>APK</strong></a> 
-  by click that link, and install on your smartphone.
+  After you clone / fork this repository, make sure you have your own Token Github API. Then paste in build gradle module (apps) so you can access the API.
 </p>
 <br>
 
 ## MIT License
 <p align="left">
   Distributed under the MIT License
-<a href="https://github.com/mas-diq/CameraStoreApps/blob/master/LICENSE"><strong>See License</strong></a> 
+<a href="https://github.com/mas-diq/GithubUser/blob/master/LICENSE"><strong>See License</strong></a> 
   for more information
 </p>
 <br>
