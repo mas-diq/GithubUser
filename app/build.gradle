@@ -15,7 +15,7 @@ android {
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
-        buildConfigField("String", "GITHUB_TOKEN", '"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";')
+//        buildConfigField("String", "GITHUB_TOKEN", '"PLS FILL WITH YOUR TOKEN"')
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         javaCompileOptions {
             annotationProcessorOptions {
