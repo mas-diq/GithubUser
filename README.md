@@ -14,9 +14,14 @@
 
 ## Project's Prototype
 <p align="center">
-<img  width="220px" src="https://github.com/mas-diq/CameraStoreApps/blob/master/satu.gif" />
-<img  width="220px" src="https://github.com/mas-diq/CameraStoreApps/blob/master/dua.gif" />
-<img  width="220px" src="https://github.com/mas-diq/CameraStoreApps/blob/master/tiga.gif" />
+  <img  width="220px" src="https://github.com/mas-diq/GithubUser/blob/master/Gif/1frame.gif" />
+  <img  width="220px" src="https://github.com/mas-diq/GithubUser/blob/master/Gif/2frame.gif" />
+  <img  width="220px" src="https://github.com/mas-diq/GithubUser/blob/master/Gif/3frame.gif" />
+  <img  width="220px" src="https://github.com/mas-diq/GithubUser/blob/master/Gif/4frame.gif" />
+  <img  width="220px" src="https://github.com/mas-diq/GithubUser/blob/master/Gif/5frame.gif" />
+  <img  width="220px" src="https://github.com/mas-diq/GithubUser/blob/master/Gif/6frame.gif" />
+  <img  width="220px" src="https://github.com/mas-diq/GithubUser/blob/master/Gif/7frame.gif" />
+  <img  width="220px" src="https://github.com/mas-diq/GithubUser/blob/master/Gif/8Frame.gif" />
 </p>
 <br>
 
