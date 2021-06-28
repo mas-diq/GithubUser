@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="name">M Shiddiq Fathullah</string>
+    <string name="title">GitHub User</string>
+    <string name="user_name">mas-diq</string>
+    <string name="follower">Followers</string>
+    <string name="followerValue">16</string>
+    <string name="number">1234</string>
+    <string name="following">Followings</string>
+    <string name="followingValue">20</string>
+    <string name="status">User Verified</string>
+    <string name="back">Back</string>
+    <string name="company">Company</string>
+    <string name="companyValue">Gunadarma</string>
+    <string name="location">Location</string>
+    <string name="locationValue">Indonesia</string>
+    <string name="repositoryValue">14</string>
+    <string name="repository">Repository</string>
+    <string name="verified">Verified</string>
+
+    <string name="id">73525864</string>
+    <string name="type">User</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Input User</string>
+
+    <string name="repoTV">Repo</string>
+    <string name="check">Check Icon</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+
+    <string name="title_one_favorite">You can find your favorite</string>
+    <string name="title_two_favorite">User Here!</string>
+    <string name="title_one_setting">You can activate your</string>
+    <string name="title_two_setting">Alarm Here!</string>
+    <string name="daily_reminder">Daily Reminder at 9.00 AM</string>
+    <string name="profile">Profile</string>
+</resources>

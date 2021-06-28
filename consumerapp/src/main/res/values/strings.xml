@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="user_name">mas-diq</string>
+    <string name="status">User Verified</string>
+    <string name="id">73525864</string>
+    <string name="type">User</string>
+    <string name="check">Check Icon</string>
+    <string name="title">Github Provider</string>
+</resources>
